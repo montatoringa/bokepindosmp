@@ -62,7 +62,7 @@ export async function generateMetadata(
             type: `article`,
         },
         alternates: {
-            canonical: `/v/${file.filecode}#${file.title}`,
+            canonical: `/v/${file.filecode}`,
         },
     };
 }
@@ -88,7 +88,7 @@ export default async function Video({ params }: PageProps) {
         headline: `${file.title}`,
         image: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Viral Terbaru Xpanas Bocil Ngentot Jilbab Smp Mama Sma`,
-        url: `https://bokepindosmp.pages.dev/v/${file.filecode}#${file.title}`,
+        url: `https://bokepindosmp.pages.dev/v/${file.filecode}`,
         datePublished: new Date(
             file.uploaded + ".000Z"
         ).toISOString(),
@@ -108,7 +108,7 @@ export default async function Video({ params }: PageProps) {
         headline: `${file.title}`,
         image: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Viral Terbaru Xpanas Bocil Ngentot Jilbab Smp Mama Sma`,
-        url: `https://bokepindosmp.pages.dev/v/${file.filecode}#${file.title}`,
+        url: `https://bokepindosmp.pages.dev/v/${file.filecode}`,
         datePublished: new Date(
             file.uploaded + ".000Z"
         ).toISOString(),
@@ -125,7 +125,7 @@ export default async function Video({ params }: PageProps) {
                 userInteractionCount: `${file.views}`,
             interactionType: {
                 '@type': `ReadAction`,
-                target: `https://bokepindosmp.pages.dev/v/${file.filecode}#${file.title}`
+                target: `https://bokepindosmp.pages.dev/v/${file.filecode}`
             }  
         }
         }
@@ -168,25 +168,20 @@ export default async function Video({ params }: PageProps) {
                 </CardHeader>
 <center><script
       dangerouslySetInnerHTML={{
-         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':606729})`,
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1078976})`,
       }}
-   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="606729" data-width="300" data-height="262"></ins></center>
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="1078976" data-width="300" data-height="112"></ins></center>
             <p>{file.title} di {SITENAME} Video Bokep Indo Viral Terbaru Xpanas Bocil Ngentot Jilbab Smp Mama Sma Jepang Jav Barat Simontok hub sotwe olmek avtube pijat pure gudang pemerkosaan rumah tobrut inggris ngintip vcs binor yandex update remaja {SITENAME} wiki raja bokeptube full porno bokepindosmpa simontok {file.title} playbokep indobokep xpanasonline indoh janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor {SITENAME} remaja yandex update perselingkuhan wiki raja full com porno indoh Hotbabes Big Tits Family Freeporn Ass Naked Celebs Nude Cam Hot Videos Fucking Free Porno Adult Movies Mom Freesex Nudelive Cams Women Stepmom Hotwife Bigtits Melons Tube Huge Tits Pornos Film x Titshits Pornofilme Nice Natural Fuq Girls Teen Sex Pornstars Tube Dick Jihad</p>
-<center><script
-      dangerouslySetInnerHTML={{
-         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':401151})`,
-      }}
-   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="401151" data-width="300" data-height="262"></ins></center>
             </Card>
             <h2 className="text-2xl font-bold text-center my-4">Related Video {file.title}
             </h2>
 <center><script
       dangerouslySetInnerHTML={{
-         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1007339})`,
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1058210})`,
       }}
-   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="1007339" data-width="300" data-height="262"></ins></center>
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="1058210" data-width="300" data-height="262"></ins></center>
             <SearchCardList query={file.title.split(" ")[2]} />
-<Script src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2w2e4z2e4&u=http%3A%2F%2Fwww.juicyads.rocks"/>
+<Script src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2x294z2b4&u=http%3A%2F%2Fwww.juicyads.rocks"/>
         </div>
     );
 }
